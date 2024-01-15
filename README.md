@@ -5,6 +5,7 @@
 
 
 <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" width="400px" />
+<div></div>
 
 - 🌱 I’m currently learning **DSA with C++**
 
