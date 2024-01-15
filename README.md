@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdixit2468&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdixit2468" /> </p>
 
+
+<img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" />
+
 - 🌱 I’m currently learning **DSA with C++**
 
 - 👯 I’m looking to collaborate on [Jarvis 2.0](https://github.com/Kartikdixit2468/Advanced-Jarvis-AI-using-python)
