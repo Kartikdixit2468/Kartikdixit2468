@@ -7,7 +7,10 @@
 <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" width="400px" />
 <div></div>
 
-- 🌱 I’m currently learning **DSA with C++**
+
+- 👉 Currently Working on an **NodeJS Ecommerce site project**.
+
+- 🌱 Going to learning **DSA with C++** next month.
 
 - 👯 I’m looking to collaborate on [Jarvis 2.0](https://github.com/Kartikdixit2468/Advanced-Jarvis-AI-using-python)
 
