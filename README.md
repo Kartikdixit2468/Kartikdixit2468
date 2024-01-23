@@ -8,7 +8,7 @@
 <div></div>
 
 
-- 👉 Currently Working on an **NodeJS Ecommerce site project**.
+- 👉 Currently Working on a **NodeJS E-commerce Site Project** for a startup.
 
 - 🌱 Going to learning **DSA with C++** next month.
 
