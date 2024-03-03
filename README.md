@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kartik-dixit-650b60260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-dixit-650b60260" height="30" width="40" /></a>
-<a href="https://instagram.com/kartik.dll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik.dll" height="30" width="40" /></a>
+<a href="https://instagram.com/developer_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik.dll" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
