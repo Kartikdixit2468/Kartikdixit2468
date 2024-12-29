@@ -8,7 +8,7 @@
 <div></div>
 
 
-- 👉 Currently Working on a **NodeJS E-commerce Site Project** for a startup.
+- 👉 Currently Working on a **Student Study Plannar App** using Python(Streamlit + transformer) + MySQL + AWS.
 
 - 🌱 Going to learning **DSA with C++** next month.
 
