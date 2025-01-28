@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Dixit</h1>
-<h2 align="center">A Passionate Developer from India</h2>
+<h2 align="center">A Passionate Young mind with millions of Ideas 💡</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdixit2468&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdixit2468" width="150px"/> </p>
 
@@ -15,6 +15,8 @@
 - 👯 I’m looking to collaborate on [Jarvis 2.0](https://github.com/Kartikdixit2468/Advanced-Jarvis-AI-using-python)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kartikdixit2468/](https://github.com/Kartikdixit2468/)
+
+- 👯 My portfolio 👉 [Developer Kartik](https://kartikdixit.vercel.app/)
 
 - 💬 Ask me about **Python, ReactJS, NodeJS & my projects 😶‍🌫️**
 
