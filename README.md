@@ -8,7 +8,7 @@
 <div></div>
 
 
-- 👉 Currently Working on a **AI Student Study Helper App** using Nodde/Python(Streamlit + transformer) + MySQL + AWS.
+- 👉 Currently Working on a **Crop Price Prediction App** using Nodde/Python + MySQL + AWS.
 
 - 🌱 Going to learning **DSA with C++** next month.
 
