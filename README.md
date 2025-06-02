@@ -1,28 +1,22 @@
 <h1 align="center">Hey 👋, I'm Kartik Dixit</h1>
 <h3 align="center">💡 A passionate developer with a mind full of ideas</h3>
 
-<br/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 30px;">
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="vertical-align: top; text-align: left; padding: 20px;">
-        <div style="font-size: 17px; line-height: 1.6;">
-          <ul>
-            <li>👨‍💻 Currently working at a <b>Startup</b> in <i>Mobile App Development</i></li>
-            <li>🔧 Tech Stack: <code>React Native</code>, <code>Node.js</code>, <code>AWS</code></li>
-            <li>🌱 Learning more about <b>Blockchain</b> and <b>AI</b></li>
-            <li>🤝 Open to collaborating on cool open-source and mobile projects</li>
-            <li>⚡ Fun fact: I debug like a detective and code like a caffeinated ninja ☕💻</li>
-          </ul>
-        </div>
-      </td>
-      <td style="vertical-align: middle; text-align: center;">
-        <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="Kartik Coding" width="300">
-      </td>
-    </tr>
-  </table>
+  <div style="max-width: 500px; font-size: 17px; line-height: 1.8;">
+    <ul>
+      <li>👨‍💻 Currently working at a <b>Startup</b> in <i>Mobile App Development</i></li>
+      <li>🔧 Tech Stack: <code>React Native</code>, <code>Node.js</code>, <code>AWS</code></li>
+      <li>🌱 Learning more about <b>Blockchain</b> and <b>AI</b></li>
+      <li>🤝 Open to collaborating on cool open-source and mobile projects</li>
+      <li>⚡ Fun fact: I debug like a detective and code like a caffeinated ninja ☕💻</li>
+    </ul>
+  </div>
+
+  <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="Kartik Coding" width="280" style="border-radius: 10px;">
+
 </div>
+
 
 <br/>
 
