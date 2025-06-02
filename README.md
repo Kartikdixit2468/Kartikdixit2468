@@ -1,86 +1,92 @@
-<h1 align="center">Hey 👋, I'm Kartik Dixit</h1>
-<h3 align="center">💡 A passionate developer with a mind full of ideas</h3>
+<h1 align="center">Hi 👋, I'm Kartik Dixit</h1>
+<h2 align="center">A Passionate Young mind with millions of Ideas 💡</h2>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 30px;">
-
-  <div style="max-width: 500px; font-size: 17px; line-height: 1.8;">
-    <ul>
-      <li>👨‍💻 Currently working at a <b>Startup</b> in <i>Mobile App Development</i></li>
-      <li>🔧 Tech Stack: <code>React Native</code>, <code>Node.js</code>, <code>AWS</code></li>
-      <li>🌱 Learning more about <b>Blockchain</b> and <b>AI</b></li>
-      <li>🤝 Open to collaborating on cool open-source and mobile projects</li>
-      <li>⚡ Fun fact: I debug like a detective and code like a caffeinated ninja ☕💻</li>
-    </ul>
-  </div>
-
-  <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="Kartik Coding" width="280" style="border-radius: 10px;">
-
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdixit2468&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdixit2468" width="150px"/> </p>
 
 
-<br/>
+<img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" width="400px" />
+<div></div>
 
 
+- 🚀 Currently working with a **Startup** in **Mobile App Development**  
+  → Stack: **React Native | Node.js | AWS**
+
+- 🤝 Currently sharpening my skills — will be open to collaborations soon!
+
+- 🌱 Starting a deep dive into **Blockchain** and **AI** next month
 
 
+- 💻 Explore all my work on GitHub:  
+  🔗 [github.com/Kartikdixit2468](https://github.com/Kartikdixit2468/)
 
+- 🧑‍🎨 Check out my portfolio:  
+  🌐 [Developer Kartik](https://kartikdixit.vercel.app/)
 
+- 💬 Let's talk about:  
+  **Python | React.js | Node.js | Mobile Apps | AI/ML Concepts**
 
+- 📫 Reach me at:  
+  ✉️ **Kartikdixit2107@gmail.com**
 
-## 🔗 Links
+- 📄 Learn more about my journey:  
+  [View Resume](https://drive.google.com/file/d/19X42aVLFpZ8tCKukpA3h_m_r1V0CXauQ/view?usp=drive_link)
 
-- 🌐 **Portfolio:** [kartikdixit.vercel.app](https://kartikdixit.vercel.app/)
-- 📄 **Resume:** [View on Google Drive](https://drive.google.com/file/d/19X42aVLFpZ8tCKukpA3h_m_r1V0CXauQ/view?usp=drive_link)
-- 💬 **Email:** [Kartikdixit2107@gmail.com](mailto:Kartikdixit2107@gmail.com)
-- 💻 **GitHub:** [@Kartikdixit2468](https://github.com/Kartikdixit2468)
-- 🔗 **LinkedIn:** [linkedin.com/in/kartik-dixit-650b60260](https://linkedin.com/in/kartik-dixit-650b60260)
+- ⚡ Fun Fact:  
+  **I might be buried in code, caffeinated, and debugging like a boss — so don’t be surprised if I reply with a stack trace! 😄**
 
-<br/>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-</div>
-
-<br/>
-
-## 🤝 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/kartik-dixit-650b60260" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+<h3 align="left">📬 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/kartik-dixit-650b60260" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:Kartikdixit2107@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
+  <a href="mailto:Kartikdixit2107@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
-<br/>
+<h3 align="left">🚀 Tech Stack & Tools:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
 
-## ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/kartikdixit" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-</a>
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kartikdixit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kartikdixit" /></a></p><br><be>
 
 <!-- 
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikdixit2468&show_icons=true&locale=en" alt="kartikdixit2468" /></p> 
 -->
 <!--
-**Kartikdixit2468/Kartikdixit2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kartikdixit2468/Kartikdixit2468** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -93,3 +99,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
