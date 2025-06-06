@@ -18,7 +18,7 @@
 
 - 💻 Explore all my work on GitHub:  🔗 [github.com/Kartikdixit2468](https://github.com/Kartikdixit2468/)
 
-- 🧑‍🎨 Check out my portfolio: 🌐 [Developer Kartik] (https://kartikdixit.vercel.app/)
+- 🧑‍🎨 Check out my portfolio: 🌐 [Developer Kartik](https://kartikdixit.vercel.app/)
   
 - 💬 Let's talk about:  
   **Python | React Native | React.js | Node.js | Mobile Apps | AI/ML Concepts**
