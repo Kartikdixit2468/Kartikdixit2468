@@ -19,17 +19,14 @@
 - 💻 Explore all my work on GitHub:  
   🔗 [github.com/Kartikdixit2468](https://github.com/Kartikdixit2468/)
 
-- 🧑‍🎨 Check out my portfolio:  
-  🌐 [Developer Kartik](https://kartikdixit.vercel.app/)
-
+- 🧑‍🎨 Check out my portfolio: 🌐 [Developer Kartik] (https://kartikdixit.vercel.app/)
+  
 - 💬 Let's talk about:  
-  **Python | React.js | Node.js | Mobile Apps | AI/ML Concepts**
+  **Python | React Native | React.js | Node.js | Mobile Apps | AI/ML Concepts**
 
-- 📫 Reach me at:  
-  ✉️ **Kartikdixit2107@gmail.com**
+- 📫 Reach me at: ✉️ **Kartikdixit2107@gmail.com**
 
-- 📄 Learn more about my journey:  
-  [View Resume](https://drive.google.com/file/d/19X42aVLFpZ8tCKukpA3h_m_r1V0CXauQ/view?usp=drive_link)
+- 📄 Learn more about my journey:  [View Resume](https://drive.google.com/file/d/19X42aVLFpZ8tCKukpA3h_m_r1V0CXauQ/view?usp=drive_link)
 
 - ⚡ Fun Fact:  
   **I might be buried in code, caffeinated, and debugging like a boss — so don’t be surprised if I reply with a stack trace! 😄**
