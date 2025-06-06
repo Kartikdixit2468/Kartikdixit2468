@@ -16,8 +16,7 @@
 - 🌱 Starting a deep dive into **Blockchain** and **AI** next month
 
 
-- 💻 Explore all my work on GitHub:  
-  🔗 [github.com/Kartikdixit2468](https://github.com/Kartikdixit2468/)
+- 💻 Explore all my work on GitHub:  🔗 [github.com/Kartikdixit2468](https://github.com/Kartikdixit2468/)
 
 - 🧑‍🎨 Check out my portfolio: 🌐 [Developer Kartik] (https://kartikdixit.vercel.app/)
   
