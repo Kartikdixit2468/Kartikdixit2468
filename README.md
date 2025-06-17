@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdixit2468&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdixit2468" width="150px"/> </p>
 
 
-<img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" width="300px" />
-<div></div>
+<!-- <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" width="300px" />
+<div></div> -->
 
 
 - 🚀 Currently working with a **Startup** in **Mobile App Development**  
@@ -76,6 +76,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kartikdixit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kartikdixit" /></a></p><br><be>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muneer320&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muneer320&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<sub>Note: Most used language ≠ Most skilled language (and vice versa)</sub>
+
+###
 
 <!-- 
 <p>&nbsp;
