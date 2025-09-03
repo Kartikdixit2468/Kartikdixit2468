@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" width="300px" />
 
-🏫 I'm currently pursuing a Bachelors in Computer Science from BITS Pilani and I'm also enrolled with the Scaler School of Technology.
+🏫 I'm currently pursuing a Bachelors in Computer Science from Scaler School of Technology, Banglore.
 
 🔭 I’m currently working remotely with a startup, contributing to their mobile app using React Native, Node.js, and Firebase.
 
