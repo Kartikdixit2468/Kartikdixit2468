@@ -57,21 +57,27 @@
 <tbody>
 <tr>
 <td>Project 1</td>
-<td>React Native, Firebase</td>
-<td>A short description of your project.</td>
-<td><a href="#">View Project</a></td>
+<td>React, Firebase</td>
+<td>A Swiggy-like food ordering clone built using React and Firebase (<a href="https://github.com/Kartikdixit2468/Scaler-Swiggy">GitHub</a>).</td>
+<td><a href="https://github.com/Kartikdixit2468/Scaler-Swiggy">View Project</a></td>
 </tr>
 <tr>
 <td>Project 2</td>
-<td>Next.js, Node.js, MongoDB</td>
-<td>A short description of your project.</td>
-<td><a href="#">View Project</a></td>
+<td>Node.js, MySQL</td>
+<td>A backend service for PujaHarGhar, developed with Node.js and MySQL (<a href="https://github.com/Kartikdixit2468/pujaharghar-backend">GitHub</a>).</td>
+<td><a href="https://github.com/Kartikdixit2468/pujaharghar-backend">View Project</a></td>
 </tr>
 <tr>
 <td>Project 3</td>
-<td>Python, AI/ML</td>
-<td>A short description of your project.</td>
-<td><a href="#">View Project</a></td>
+<td>Python, PyGame</td>
+<td>A fun space shooter game built with Python and PyGame (<a href="https://github.com/Kartikdixit2468/space-shooter-game-python">GitHub</a>).</td>
+<td><a href="https://github.com/Kartikdixit2468/space-shooter-game-python">View Project</a></td>
+</tr>
+<tr>
+<td>Project 4</td>
+<td>Node.js, MySQL, Razorpay</td>
+<td>An e-commerce handicraft site with Razorpay integration using Node.js and MySQL (<a href="https://github.com/Kartikdixit2468/proffessional-handicraft-selling-site">GitHub</a>).</td>
+<td><a href="https://github.com/Kartikdixit2468/proffessional-handicraft-selling-site">View Project</a></td>
 </tr>
 </tbody>
 </table>
