@@ -17,7 +17,7 @@
 
 📫 How to reach me: **[kartikdixit2107@gmail.com](mailto:kartikdixit2107@gmail.com)**
 
-📄 Know about my experiences: [My Resume](#)
+<!-- 📄 Know about my experiences: [My Resume](#) -->
 
 🌐 Check out my portfolio: [kartikdixit.vercel.app](https://kartikdixit.vercel.app)
 
