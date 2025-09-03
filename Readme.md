@@ -84,12 +84,11 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kartikdixit2468/Kartikdixit2468/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kartikdixit2468/Kartikdixit2468/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kartikdixit2468/Kartikdixit2468/output/snake.svg" />
 </picture>
 
----
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kartikdixit2468&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
