@@ -98,11 +98,9 @@
 </a>
 </div>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/github-snake.svg" />
-<img alt="github-snake" src="https://www.google.com/search?q=https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/github-snake.svg" />
-</picture>
+![GitHub Snake Light](https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/kartikdixit2468/kartikdixit2468/output/snake-dark.svg#gh-dark-mode-only)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kartikdixit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kartikdixit" /></a></p><br><br>
