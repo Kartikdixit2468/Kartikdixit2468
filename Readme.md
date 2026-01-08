@@ -5,13 +5,13 @@
 
 <img src="https://github.com/Kartikdixit2468/Kartikdixit2468/blob/main/programmer_1.gif?raw=true" alt="kartikdixit" align="right" width="300px" />
 
-🏫 I'm currently pursuing a Bachelors in Computer Science from Scaler School of Technology, Banglore.
+🏫 I'm currently pursuing a Bachelor's in Computer Science from Scaler School of Technology, Bangalore.
 
-🔭 I’m currently working remotely with a startup, contributing to their mobile app using React Native, Node.js, and Firebase.
+🔭 Currently working on my startup, helping my team to scale with advanced features, omptimization and security.
 
 🌱 I’m diving deep into the core concepts of Machine Learning and Neural Networks.
 
-🤝 I've started contributing to Open Source and I'm looking to collaborate on exciting mobile or web projects.
+🤝 I've started contributing to Open Source, and I'm looking to collaborate on exciting mobile or web projects.
 
 💬 Ask me about React Native, React.js, Node.js, Firebase, Python, and AI/ML Concepts.
 
